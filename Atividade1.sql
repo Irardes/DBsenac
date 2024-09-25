@@ -66,7 +66,7 @@ INSERT INTO vendas (id_produto, id_cliente, quantidade, data_venda)
 -- Atualização de dados: preço
 
 UPDATE produtos
-SET preco = 2.99
+SET preco = 4.99
 WHERE id_produto = 1;
 
 -- Atualização de dados: telefone
